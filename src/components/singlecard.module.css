@@ -1,0 +1,26 @@
+.root {
+    width: 350px;
+    background-color: pink;
+    margin: 2%;
+    float: left;
+}
+
+.bullet {
+    display: 'inline-block';
+    margin: '0 2px';
+    transform: 'scale(0.8)'
+}
+
+.title {
+    font-size: 20px;
+    margin-bottom: 2%;
+}
+    
+.author {
+    margin-bottom: 10;
+    font-size:18px;
+  }
+
+.media {
+    height: 220px;
+}
